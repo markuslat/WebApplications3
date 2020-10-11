@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.row {
+  margin: 0;
+}
+
+.col {
+  border: 1px solid black;
+  font: helvetica;
+  height: 60px;
+  font-size: 30px;
+  text-align: center;
+  vertical-align: center;
+}
